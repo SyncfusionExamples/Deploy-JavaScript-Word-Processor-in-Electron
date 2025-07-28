@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@syncfusion/ej2-react-documenteditor": "^20.3.47",
-    "electron": "^22.3.25"
+    "@syncfusion/ej2-react-documenteditor": "*",
+    "electron": "^30.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
