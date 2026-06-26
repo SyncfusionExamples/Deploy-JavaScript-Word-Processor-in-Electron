@@ -1,8 +1,10 @@
 # Deploy JavaScript (ES5) DOCX Editor in Electron 
 
-This repository provides a working example of how to deploy the Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript (ES5) DOCX Editor (Document Editor) within an Electron application.
+This repository provides a working example of how to deploy the Syncfusion<sup style="font-size:70%">&reg;</sup> [JavaScript (ES5) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) within an Electron application.
 
 # Resources
+
+- **Product page:**  [Syncfusion® JavaScript (ES5) DOCX Edito](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 - **Documentation:**   [Syncfusion® JavaScript (ES5) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
