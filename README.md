@@ -1,14 +1,15 @@
-# Deploy JavaScript Word Processor in Electron 
+# Deploy JavaScript (ES5) DOCX Editor in Electron 
 
-This repository provides a working example of how to deploy the Syncfusion® Document Editor (a.k.a. Word Processor) component within an Electron application.
+This repository provides a working example of how to deploy the Syncfusion<sup style="font-size:70%">&reg;</sup> [JavaScript (ES5) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) within an Electron application.
 
-# Resources 
+# Resources
 
-- **Product page:**   [Syncfusion® JavaScript Word Processor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
+- **Product page:**  [Syncfusion® JavaScript (ES5) DOCX Edito](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/getting-started) 
+- **Documentation:**   [Syncfusion® JavaScript (ES5) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/javascript/demos/) 
+- **Online demo:**   [Syncfusion® JavaScript (ES5) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript-es5/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples)
+
 
 # Support and feedback 
 
